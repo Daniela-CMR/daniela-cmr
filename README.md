@@ -1,7 +1,7 @@
 ### Hi there 👋
 🔭 I’m currently working on marketing
 🌱 I’m currently learning HTML´s code. 
-📫 How to reach me: ...danielamoralesrodriguez@gmail.com
+
 
 
 <!--
